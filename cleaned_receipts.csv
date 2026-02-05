@@ -1,0 +1,51 @@
+merchant,order_id,amount,transaction_date,qa_reason,valid
+Amazon,112-3344,1299,2025-01-12,OK,Yes
+Flipkart,FK-9988,450,,Invalid Date,No
+Swiggy,5566,340,2025-01-14,OK,Yes
+Uber,,500,,Invalid Date,No
+Amazon,778-9901,1899,2025-01-14,OK,Yes
+Amazon,778-9902,1000,2025-01-14,OK,Yes
+Amazon,778-9903,500,2025-01-14,OK,Yes
+Amazon,778-9904,200,2025-01-14,OK,Yes
+Flipkart,FK-4455,1200,,Invalid Date,No
+Swiggy,7788,-260,2025-01-16,Negative Amount,No
+Uber,,50000,,Invalid Date,No
+Amazon,991-3344,2199,2025-01-18,OK,Yes
+Flipkart,FK-9999,300,,Invalid Date,No
+Swiggy,1122,150,2025-01-19,OK,Yes
+Uber,,450,,Invalid Date,No
+Amazon,221-5566,899,2025-01-20,OK,Yes
+Flipkart,FK-1001,2200,,Invalid Date,No
+Swiggy,3344,600,2025-01-21,OK,Yes
+Uber,,300,,Invalid Date,No
+Amazon,332-1122,4500,2025-01-22,OK,Yes
+Flipkart,FK-2020,150,,Invalid Date,No
+Swiggy,5500,120,2025-01-23,OK,Yes
+Uber,,550,,Invalid Date,No
+Amazon,445-6677,120,2025-01-24,OK,Yes
+Flipkart,FK-3030,999,,Invalid Date,No
+Swiggy,6600,850,2025-01-25,OK,Yes
+Uber,,400,,Invalid Date,No
+Amazon,556-7788,3200,2025-01-26,OK,Yes
+Flipkart,FK-4040,5000,,Invalid Date,No
+Swiggy,7700,95,2025-01-27,OK,Yes
+Uber,,600,,Invalid Date,No
+Amazon,667-8899,1100,2025-01-28,OK,Yes
+Flipkart,FK-5050,750,,Invalid Date,No
+Swiggy,8800,330,2025-01-29,OK,Yes
+Uber,,350,,Invalid Date,No
+Amazon,778-0011,2500,2025-01-30,OK,Yes
+Flipkart,FK-6060,1100,,Invalid Date,No
+Swiggy,9900,420,2025-01-31,OK,Yes
+Uber,,500,,Invalid Date,No
+Amazon,889-1122,600,2025-02-01,OK,Yes
+Flipkart,FK-7070,300,,Invalid Date,No
+Swiggy,1010,250,2025-02-02,OK,Yes
+Uber,,400,,Invalid Date,No
+Amazon,990-2233,1500,2025-02-03,OK,Yes
+Flipkart,FK-8080,2000,,Invalid Date,No
+Swiggy,2020,180,2025-02-04,OK,Yes
+Uber,,600,,Invalid Date,No
+Amazon,001-3344,999,2025-02-05,OK,Yes
+Flipkart,FK-9090,450,,Invalid Date,No
+Swiggy,3030,550,2025-02-06,OK,Yes

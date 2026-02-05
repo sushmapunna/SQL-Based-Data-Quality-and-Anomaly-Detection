@@ -1,0 +1,25 @@
+merchant,order_id,amount,transaction_date,qa_reason,valid
+Flipkart,FK-9988,450,,Invalid Date,No
+Uber,,500,,Invalid Date,No
+Flipkart,FK-4455,1200,,Invalid Date,No
+Swiggy,7788,-260,2025-01-16,Negative Amount,No
+Uber,,50000,,Invalid Date,No
+Flipkart,FK-9999,300,,Invalid Date,No
+Uber,,450,,Invalid Date,No
+Flipkart,FK-1001,2200,,Invalid Date,No
+Uber,,300,,Invalid Date,No
+Flipkart,FK-2020,150,,Invalid Date,No
+Uber,,550,,Invalid Date,No
+Flipkart,FK-3030,999,,Invalid Date,No
+Uber,,400,,Invalid Date,No
+Flipkart,FK-4040,5000,,Invalid Date,No
+Uber,,600,,Invalid Date,No
+Flipkart,FK-5050,750,,Invalid Date,No
+Uber,,350,,Invalid Date,No
+Flipkart,FK-6060,1100,,Invalid Date,No
+Uber,,500,,Invalid Date,No
+Flipkart,FK-7070,300,,Invalid Date,No
+Uber,,400,,Invalid Date,No
+Flipkart,FK-8080,2000,,Invalid Date,No
+Uber,,600,,Invalid Date,No
+Flipkart,FK-9090,450,,Invalid Date,No
